@@ -1,0 +1,21 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "proyecto cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "javascript",
+    "typescrypt"
+  ],
+  "author": "yeison",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
